@@ -7,7 +7,7 @@ Stable Tag: 0.1
 License: GPLv2 or later
 
 == Description ==
-Checks if the WordPress HTTP API is able to be used by making calls using wp_remote_requst().
+Checks if the WordPress HTTP API is able to be used by making calls using wp_remote_request().
 
 A textfield allows entering URLs. If left blank, the request will use http://google.com.
 
