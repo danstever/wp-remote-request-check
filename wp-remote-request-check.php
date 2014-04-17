@@ -1,7 +1,6 @@
 <?php
 /*
  Plugin Name: WP Remote Request Check
- Plugin URI: http://roost.me
  Description: Checks if the WordPress HTTP API is able to be used.
  Author: danstever
  Version: 0.1
